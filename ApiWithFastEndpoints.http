@@ -1,0 +1,6 @@
+@ApiWithFastEndpoints_HostAddress = http://localhost:5036
+
+GET {{ApiWithFastEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
